@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 
 # read image
-image_path = '/home/phillip/Desktop/todays_tutorial/30_text_detection_easyocr/code/data/test2.png'
+image_path = 'C:/Users/YOURPATH/Desktop/ontario-province-map-vector-2934869.jpg'
 
 img = cv2.imread(image_path)
 
